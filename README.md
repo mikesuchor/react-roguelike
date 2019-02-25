@@ -1,7 +1,7 @@
 React Roguelike Game
 
 User Stories:
-[ ] I have health, a level, and a weapon. I can pick up a better weapon. I can pick up health items.
+[] I have health, a level, and a weapon. I can pick up a better weapon. I can pick up health items.
 [ ] All the items and enemies on the map are arranged at random.
 [ ] I can move throughout a map, discovering items.
 [ ] I can move anywhere within the map's boundaries, but I can't move through an enemy until I've beaten it.
