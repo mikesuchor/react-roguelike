@@ -8,9 +8,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Level />
-        <Health />
-        <Weapon />
       </div>
     );
   }
